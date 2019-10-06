@@ -1,0 +1,118 @@
+
+
+
+*{
+    font-family: 'Mansalva', cursive;
+}
+body{
+    font-family: 'Mansalva', cursive;
+}
+
+.imgheader{
+    width: 100px;
+}
+
+.site-in{
+    display:flex;
+    justify-content: space-between;
+    background:rgb(3, 37, 71);    
+    color:white;
+    font-family: 'Mansalva', cursive;
+}
+
+h1{
+    margin:20px 40px;
+    font-size:4rem;
+}
+
+/* .menu nav a{
+    color:white;
+    display: inline-block;
+    background:#696a6b;
+    margin:25px 10px;
+    font-size:20px;
+    padding:20px;
+    font-style:none;
+    text-decoration: none;
+    border-radius: 5px;
+} */
+
+.menu nav a{
+    margin:25px 10px;
+    font-size:1.2rem;
+}
+
+.main-in{    
+    width:90%;
+    margin:50px auto;
+    display: flex;
+    justify-content: center;
+}
+
+.img-logo{
+    width:300px;
+}
+
+.img-logo-register{
+    width:300px;
+}
+
+.list-pets{
+    width:80%;
+    text-align: center;
+    margin:auto;
+    display: block;
+}
+
+h2{    
+    color:black;
+    
+    text-align: center;
+}
+
+.footer-in{
+    background:rgb(0,62,124);
+    color:white;
+    font-size:20px;
+    height:20vh;
+    display: flex;    
+    flex-direction: column;    
+}
+
+.menu-footer{
+    text-align: center;
+}
+.titleimg_container{
+    text-align: center;
+}
+.titleimg_container img{
+    border-radius: 5px;
+}
+.menu-footer nav a{
+    font-size:22px;
+    color:white;
+    text-decoration: none;
+    justify-content: center;
+    margin:20px 40px;
+    display: inline-block;    
+    text-align: center;
+}
+
+.footer-in .info{
+    justify-content: center;
+    text-align: center;
+}
+
+.register-form{
+    margin-left:0px;
+}
+.selectedPet{
+    background-color:#f0583d;
+}
+
+/* input[type="text"],select{
+    width:400px;
+    border-radius: 5px;
+    border:1px solid rgb(119, 118, 118);    
+    
+} */
